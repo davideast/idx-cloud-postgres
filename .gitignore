@@ -1,0 +1,5 @@
+.idx/.data
+credentials.json
+.env
+.env.cloud
+node_modules
